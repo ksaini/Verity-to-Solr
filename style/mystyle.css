@@ -1,0 +1,49 @@
+.cellbluetopandbottom {
+border-top-width: 1px;
+border-top-style: solid;
+border-top-color: #C1D9DB;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-bottom-color: #C1D9DB;
+}
+tr {
+display: table-row;
+vertical-align: inherit;
+border-color: inherit;
+}
+Inherited from table
+
+table {
+white-space: normal;
+line-height: normal;
+font-weight: normal;
+font-size: medium;
+font-variant: normal;
+font-style: normal;
+color: -webkit-text;
+text-align: -webkit-auto;
+}
+
+a {
+color: #5F91B0;
+text-decoration: none;
+}
+.cell3bluesides {
+border-left-width: 1px;
+border-left-style: solid;
+border-left-color: #D5E3E6;
+border-right-width: 1px;
+border-right-style: solid;
+border-right-color: #D5E3E6;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-bottom-color: #D5E3E6;
+}
+.cellrightandbottomblueside {
+border-right-width: 1px;
+border-right-style: solid;
+border-right-color: #D5E3E6;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-bottom-color: #D5E3E6;
+}
